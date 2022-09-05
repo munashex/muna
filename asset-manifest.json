@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/muna/static/css/main.962c4c9f.css",
+    "main.js": "/muna/static/js/main.1ae98553.js",
+    "static/js/787.7ea0274a.chunk.js": "/muna/static/js/787.7ea0274a.chunk.js",
+    "static/media/muna.jpg": "/muna/static/media/muna.38191acadd1a6a733a85.jpg",
+    "index.html": "/muna/index.html",
+    "main.962c4c9f.css.map": "/muna/static/css/main.962c4c9f.css.map",
+    "main.1ae98553.js.map": "/muna/static/js/main.1ae98553.js.map",
+    "787.7ea0274a.chunk.js.map": "/muna/static/js/787.7ea0274a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962c4c9f.css",
+    "static/js/main.1ae98553.js"
+  ]
+}
